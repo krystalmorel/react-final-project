@@ -27,7 +27,6 @@ const LandingPage = () => {
           <div className="search">
             <div className="search__container">
               <div className="search__row">
-                <h1 className="search__title">Explore movies</h1>
                 <div className="input__wrapper">
                   <input
                     id="searchInput"
